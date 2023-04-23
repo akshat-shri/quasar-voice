@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/qwitter-main/src-cordova"
+		},
+		{
+			"path": "D:/qwitter-main/src-electron"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "quasar-voice"
+	}
+}
